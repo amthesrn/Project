@@ -15,10 +15,14 @@ The main objective of this project is to predict the winning and losing percenta
 
 The second objective deals with, displaying the prediction analytics on a website.
 
-##content
+## Project Content:
 
 datasets: matches.csv, deliveries.csv
+
 deployment video: match_winner_prediction.mp4
+
 streamlit functioning: prediction_app.py
+
 notebook: project_cricket_final.ipynb
+
 pdf_file: project_cricket_pdf.pdf
