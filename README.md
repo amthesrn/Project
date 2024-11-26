@@ -1,5 +1,4 @@
-# Project
-Cricket_Match_Prediction
+# Cricket_Match_Prediction
 
 IPL 20-20 match prediction using Python and machine learning.
 
